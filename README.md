@@ -1,5 +1,5 @@
 # SITE - Food Peek 👨‍💻
-LINK DO SITE DESENVOLVIDO: https://meugit204.github.io/SITE-Agencia_de_viagens.githib.io/
+LINK DO SITE DESENVOLVIDO: #
 
 DESCRIÇAO:
 
@@ -9,7 +9,7 @@ DESCRIÇAO:
  .
  ## FUNCIONALIDADES
  
- Navegaçao, Banner, Melhores lugares para se visitar, Sobre a agencia e um formulário para se entrar em contato.
+ Navegaçao, menu responsivo e sobre o hamburguer.
  
  ### MELHORIAS PARA SE FAZER NO PROJETO
  - [x] Site responsivo
