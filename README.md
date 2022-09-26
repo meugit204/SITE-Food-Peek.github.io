@@ -7,18 +7,12 @@ DESCRIÇAO:
  .
  .
  .
- ## FUNCIONALIDADES
- 
- Navegaçao, menu responsivo e sobre o hamburguer.
- 
  ### MELHORIAS PARA SE FAZER NO PROJETO
- - [x] Site responsivo
- - [x] Website leve
- - [x] Conteúdo de qualidade
- - [x] Palavras-chave
- - [x] Navegação intuitiva
- - [x] Funcionamento no celular
- - [ ] Site seguro
+ - [x] PERFORMASSE
+ - [x] ACESSIBILIDADE
+ - [x] BOAS PRÁTICAS
+ - [x] CEO
+ - [x] PWA
 
 
 ### 🚀 Skills
