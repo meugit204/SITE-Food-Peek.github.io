@@ -169,7 +169,7 @@ p:first-child {
     height: 500px;
     max-width: 50%;
     min-width: 320px;
-    background-image: url(/img/hamburguer.png);
+    background-image: url(img/hamburguer.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
